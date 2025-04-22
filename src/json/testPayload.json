@@ -1,0 +1,20 @@
+{
+    "data":
+    {
+        "type": "event",
+        "attributes":
+            {
+                "profile": {
+                    "email": "julie.rodriguez@klaviyo-demo.com"
+                },
+                "metric": {
+                    "name": "Hello World"
+                },
+                "properties": {"Field_1": "True", 
+                               "Field_2": "20", 
+                               "Field_3": "string"
+                },
+                "time": "2022-09-20T14:33:49+00:00"
+            }
+    }
+}
